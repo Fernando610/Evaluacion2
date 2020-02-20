@@ -9,6 +9,7 @@ int main(){
            int n_amigo;
            float dinero;
            };
+           
            Amigo misAmigos[3];//Guardo memoria para un dato de tipo Amigo
            for(cont=0;cont<3;cont++){
                                      std::cout<<"Dime tu numero,amigoo: ";
